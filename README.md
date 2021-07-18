@@ -1,7 +1,6 @@
 # *ITViec clone*
- 
-This is a simple Canvas-based game that requires a solid understanding of the principles of JavaScript programming to customize. 
 
+Web-app for job applications to practice Express backend.
 
 ## Video Walkthrough
 
@@ -42,7 +41,7 @@ Technical
 
 ## Time Spent and Lessons Learned
 
-Time spent: **6** hours spent in total.
+Time spent: **4** hours spent in total.
 
 Describe any challenges encountered while building the app.
 
